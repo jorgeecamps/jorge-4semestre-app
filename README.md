@@ -1,1 +1,9 @@
-# jorge-4semestre-app
+# Tasks App
+
+```bash
+npm install
+```
+
+```bash
+npm start
+```
