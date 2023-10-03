@@ -42,8 +42,8 @@ export default function Page() {
 
     return (
         <View style={styles.container}>
-            <Text style={styles.title}>Bem-vindo!</Text>
-            <Text style={styles.subTitle}>Entre na sua conta para acessar suas tarefas</Text>
+            <Text style={styles.title}>Seja Bem-vindo!</Text>
+            <Text style={styles.subTitle}>Entre na sua conta e acesse suas tarefas</Text>
             <Input
                 value={email}
                 onChangeText={(text) => setEmail(text)}
